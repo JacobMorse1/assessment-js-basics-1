@@ -52,7 +52,9 @@ let gitStatusDefinition = 'Git Status is the command used in the command line to
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+let gitAddDefinition = 'Git Add adds files to be tracked. It is the step you take before committing files to a repo. It can be used to track individual files or all files you are working with in VS Code.'
+
+let gitAddCode = 'git add .'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -63,8 +65,9 @@ let gitStatusDefinition = 'Git Status is the command used in the command line to
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitDefinition = 'Git Commit is a command in the command line used to "save" or take snapshots of the progress of a coding project and save them to your local repo. Once something is committed to a repo it is very hard to remove.'
 
+let gitCommitCode = 'git commit -m "initial commit'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -72,4 +75,4 @@ let gitStatusDefinition = 'Git Status is the command used in the command line to
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+let gitPushDefinition = 'Git Push is a command used in the command line to take commited files from the users local repository and "push" them to a remote repository.'
