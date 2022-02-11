@@ -11,7 +11,8 @@ console.log("colorCopy array", colorCopy)
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
-//CODE HERE
+colorCopy.push('purple')
+console.log("new colorCopy", colorCopy)
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -21,8 +22,9 @@ console.log("colorCopy array", colorCopy)
 
 const numbers = [1, 2, 3, 4, 5]
 
-//CODE HERE
+let middleNums = numbers.splice(1, 3)
 
+console.log('middleNums Array', middleNums)
 
 //////////////////PROBLEM 4////////////////////
 /* 
