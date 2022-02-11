@@ -25,7 +25,7 @@ let gitHubDefinition = 'Github is a hosting platoform for version control system
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInitDefinition = 'Git Init is the command used in the command line to initiate a repository for code. It will create the repo in whatever directory you are located in when the command is entered.'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@ let gitHubDefinition = 'Github is a hosting platoform for version control system
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = 'Git Clone is the command used in the command line to copy a local or remote repository.'
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -41,7 +41,7 @@ let gitHubDefinition = 'Github is a hosting platoform for version control system
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatusDefinition = 'Git Status is the command used in the command line to check the status of files within your repo. It allows the user to see if there are tracked files that have not been committed. '
 
 //////////////////PROBLEM 6////////////////////
 /*
